@@ -21,16 +21,3 @@ pip install pywhatkit
 
 You can check out all the dependencies this library installed with the command pip list.
 
-## ⭐ Links 
-
-Link to Youtube Video : https://www.youtube.com/c/Proxlight
-
-Link to our Store : https://proxlightapps.gumroad.com
-
-Link to The Hash Node article : https://proxlight.hashnode.dev/automate-whatsapp-messages-with-python
-
-Link  to our Dribbble page : https://dribbble.com/Proxlight
-
-Follow us on Twitter : https://twitter.com/Proxlight1
-
-#### © 2022 Proxlight, Inc. All rights reserved.
