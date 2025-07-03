@@ -12,7 +12,6 @@ So you must be wondering can we schedule a WhatsApp message?
 
 Definitely, you can by using a library called pywhatkit. We can schedule messages to send to any of our contacts or to a group.
 
-You can refer to our YouTube video to see a working tutorial for a better understanding and a step-by-step guide of the same.
 
 ## Requirements
 Open up a terminal and run the following command.
